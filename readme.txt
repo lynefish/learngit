@@ -9,6 +9,10 @@ $ git init
 $ git add readme.txt
 $ git commit -m "wrote a readme file"
 
-版本管理
+版本管理-1
 $ git status
 $ git diff readme.txt 
+$ git log --pretty=oneline
+$ git reset --hard HEAD^
+$ git reset --hard 3628164
+$ git reflog

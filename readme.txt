@@ -9,7 +9,7 @@ $ git init
 $ git add readme.txt
 $ git commit -m "wrote a readme file"
 
-版本管理-1
+版本管理
 $ git status
 $ git diff readme.txt 
 $ git log --pretty=oneline
